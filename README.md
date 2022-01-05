@@ -31,71 +31,71 @@ There are a total of 100 JAX exercises divided into 10 sets of Jupyter Notebooks
 
 | Style | Colab | Kaggle | Binder | GitHub |
 | ----- | ----- | ------ | ------ | ------ |
-| Exercises |
-| Solutions |
+| Exercises | 1st February, 2022 | 1st February, 2022 | 1st February, 2022 | 1st February, 2022 |
+| Solutions | 1st February, 2022 | 1st February, 2022 | 1st February, 2022 | 1st February, 2022 |
 
 #### Set 02 • ??? • Beginner • Exercises 11-20
 
 | Style | Colab | Kaggle | Binder | GitHub |
 | ----- | ----- | ------ | ------ | ------ |
-| Exercises |
-| Solutions |
+| Exercises | 4th February, 2022 | 4th February, 2022 | 4th February, 2022 | 4th February, 2022 |
+| Solutions | 4th February, 2022 | 4th February, 2022 | 4th February, 2022 | 4th February, 2022 |
 
 #### Set 03 • ??? • Beginner • Exercises 21-30
 
 | Style | Colab | Kaggle | Binder | GitHub |
 | ----- | ----- | ------ | ------ | ------ |
-| Exercises |
-| Solutions |
+| Exercises | 7th February, 2022 | 7th February, 2022 | 7th February, 2022 | 7th February, 2022 |
+| Solutions | 7th February, 2022 | 7th February, 2022 | 7th February, 2022 | 7th February, 2022 |
 
 #### Set 04 • ??? • Beginner • Exercises 31-40
 
 | Style | Colab | Kaggle | Binder | GitHub |
 | ----- | ----- | ------ | ------ | ------ |
-| Exercises |
-| Solutions |
+| Exercises | 10th February, 2022 | 10th February, 2022 | 10th February, 2022 | 10th February, 2022 |
+| Solutions | 10th February, 2022 | 10th February, 2022 | 10th February, 2022 | 10th February, 2022 |
 
 #### Set 05 • ??? • Beginner • Exercises 41-50
 
 | Style | Colab | Kaggle | Binder | GitHub |
 | ----- | ----- | ------ | ------ | ------ |
-| Exercises |
-| Solutions |
+| Exercises | 13th February, 2022 | 13th February, 2022 | 13th February, 2022 | 13th February, 2022 |
+| Solutions | 13th February, 2022 | 13th February, 2022 | 13th February, 2022 | 13th February, 2022 |
 
 #### Set 06 • ??? • Intermediate • Exercises 51-60
 
 | Style | Colab | Kaggle | Binder | GitHub |
 | ----- | ----- | ------ | ------ | ------ |
-| Exercises |
-| Solutions |
+| Exercises | 16th February, 2022 | 16th February, 2022 | 16th February, 2022 | 16th February, 2022 |
+| Solutions | 16th February, 2022 | 16th February, 2022 | 16th February, 2022 | 16th February, 2022 |
 
 #### Set 07 • ??? • Intermediate • Exercises 61-70
 
 | Style | Colab | Kaggle | Binder | GitHub |
 | ----- | ----- | ------ | ------ | ------ |
-| Exercises |
-| Solutions |
+| Exercises | 19th February, 2022 | 19th February, 2022 | 19th February, 2022 | 19th February, 2022 |
+| Solutions | 19th February, 2022 | 19th February, 2022 | 19th February, 2022 | 19th February, 2022 |
 
 #### Set 08 • ??? • Intermediate • Exercises 71-80
 
 | Style | Colab | Kaggle | Binder | GitHub |
 | ----- | ----- | ------ | ------ | ------ |
-| Exercises |
-| Solutions |
+| Exercises | 22nd February, 2022 | 22nd February, 2022 | 22nd February, 2022 | 22nd February, 2022 |
+| Solutions | 22nd February, 2022 | 22nd February, 2022 | 22nd February, 2022 | 22nd February, 2022 |
 
 #### Set 09 • ??? • Expert • Exercises 81-90
 
 | Style | Colab | Kaggle | Binder | GitHub |
 | ----- | ----- | ------ | ------ | ------ |
-| Exercises |
-| Solutions |
+| Exercises | 25th February, 2022 | 25th February, 2022 | 25th February, 2022 | 25th February, 2022 |
+| Solutions | 25th February, 2022 | 25th February, 2022 | 25th February, 2022 | 25th February, 2022 |
 
 #### Set 10 • ??? • Expert • Exercises 91-100
 
 | Style | Colab | Kaggle | Binder | GitHub |
 | ----- | ----- | ------ | ------ | ------ |
-| Exercises |
-| Solutions |
+| Exercises | 28th February, 2022 | 28th February, 2022 | 28th February, 2022 | 28th February, 2022 |
+| Solutions | 28th February, 2022 | 28th February, 2022 | 28th February, 2022 | 28th February, 2022 |
 
 The Jupyter Notebooks can also be run locally by cloning the repo and running on your local jupyter server.
 
