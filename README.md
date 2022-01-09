@@ -18,7 +18,7 @@ To provide 100 JAX exercises over different sections structured as a course or t
 
 The [JAX](https://github.com/google/jax) package in Python is a library for high performance and efficient machine learning research.
 
-It is commonly used in various deep learning models and runs seamlessly on CPUs, GPUs as well as TPUs.
+It is commonly used for various deep learning tasks and runs seamlessly on CPUs, GPUs as well as TPUs.
 
 ## Exercises 📖
 There are a total of 100 JAX exercises divided into 10 sets of Jupyter Notebooks with 10 exercises each. It is recommended to go through the exercises in order but you may start with any set depending on your expertise.
@@ -26,8 +26,9 @@ There are a total of 100 JAX exercises divided into 10 sets of Jupyter Notebooks
 ✅ Structured as exercises & tutorials - Choose your style   
 ✅ Suitable for beginners, intermediates & experts - Choose your level   
 ✅ Available on Colab, Kaggle, Binder & GitHub - Choose your platform   
+✅ Supports running on CPU, GPU & TPU - Choose your backend
 
-#### Set 01 • ??? • Beginner • Exercises 1-10
+#### Set 01 • JAX Introduction • Beginner • Exercises 1-10
 
 | Style | Colab | Kaggle | Binder | GitHub |
 | ----- | ----- | ------ | ------ | ------ |
