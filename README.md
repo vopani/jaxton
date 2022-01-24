@@ -116,8 +116,6 @@ You can also tag [@vopani](https://twitter.com/vopani) on Twitter for any other 
 
 ## Credits 🙏
 
-#### Collaborators
-
 #### JAX
 
 * [Project](https://github.com/google/jax)
