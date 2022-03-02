@@ -67,43 +67,43 @@ There are a total of 100 JAX exercises divided into 10 sets of Jupyter Notebooks
 
 | Style | Colab | Kaggle | Binder | GitHub |
 | ----- | ----- | ------ | ------ | ------ |
-| Exercises | 13th February, 2022 | 13th February, 2022 | 13th February, 2022 | 13th February, 2022 |
-| Solutions | 13th February, 2022 | 13th February, 2022 | 13th February, 2022 | 13th February, 2022 |
+| Exercises | March, 2022 | March, 2022 | March, 2022 | March, 2022 |
+| Solutions | March, 2022 | March, 2022 | March, 2022 | March, 2022 |
 
 #### Set 06 • Automatic Differentiation • Intermediate • Exercises 51-60
 
 | Style | Colab | Kaggle | Binder | GitHub |
 | ----- | ----- | ------ | ------ | ------ |
-| Exercises | 16th February, 2022 | 16th February, 2022 | 16th February, 2022 | 16th February, 2022 |
-| Solutions | 16th February, 2022 | 16th February, 2022 | 16th February, 2022 | 16th February, 2022 |
+| Exercises | March, 2022 | March, 2022 | March, 2022 | March, 2022 |
+| Solutions | March, 2022 | March, 2022 | March, 2022 | March, 2022 |
 
 #### Set 07 • Automatic Vectorization • Intermediate • Exercises 61-70
 
 | Style | Colab | Kaggle | Binder | GitHub |
 | ----- | ----- | ------ | ------ | ------ |
-| Exercises | 19th February, 2022 | 19th February, 2022 | 19th February, 2022 | 19th February, 2022 |
-| Solutions | 19th February, 2022 | 19th February, 2022 | 19th February, 2022 | 19th February, 2022 |
+| Exercises | March, 2022 | March, 2022 | March, 2022 | March, 2022 |
+| Solutions | March, 2022 | March, 2022 | March, 2022 | March, 2022 |
 
 #### Set 08 • Pytrees • Intermediate • Exercises 71-80
 
 | Style | Colab | Kaggle | Binder | GitHub |
 | ----- | ----- | ------ | ------ | ------ |
-| Exercises | 22nd February, 2022 | 22nd February, 2022 | 22nd February, 2022 | 22nd February, 2022 |
-| Solutions | 22nd February, 2022 | 22nd February, 2022 | 22nd February, 2022 | 22nd February, 2022 |
+| Exercises | April, 2022 | April, 2022 | April, 2022 | April, 2022 |
+| Solutions | April, 2022 | April, 2022 | April, 2022 | April, 2022 |
 
 #### Set 09 • Neural Networks • Expert • Exercises 81-90
 
 | Style | Colab | Kaggle | Binder | GitHub |
 | ----- | ----- | ------ | ------ | ------ |
-| Exercises | 25th February, 2022 | 25th February, 2022 | 25th February, 2022 | 25th February, 2022 |
-| Solutions | 25th February, 2022 | 25th February, 2022 | 25th February, 2022 | 25th February, 2022 |
+| Exercises | April, 2022 | April, 2022 | April, 2022 | April, 2022 |
+| Solutions | April, 2022 | April, 2022 | April, 2022 | April, 2022 |
 
 #### Set 10 • Capstone Project • Expert • Exercises 91-100
 
 | Style | Colab | Kaggle | Binder | GitHub |
 | ----- | ----- | ------ | ------ | ------ |
-| Exercises | 28th February, 2022 | 28th February, 2022 | 28th February, 2022 | 28th February, 2022 |
-| Solutions | 28th February, 2022 | 28th February, 2022 | 28th February, 2022 | 28th February, 2022 |
+| Exercises | April, 2022 | April, 2022 | April, 2022 | April, 2022 |
+| Solutions | April, 2022 | April, 2022 | April, 2022 | April, 2022 |
 
 The Jupyter Notebooks can also be run locally by cloning the repo and running on your local jupyter server.
 
