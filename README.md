@@ -81,29 +81,29 @@ There are a total of 100 JAX exercises divided into 10 sets of Jupyter Notebooks
 
 | Style | Colab | Kaggle | Binder | GitHub |
 | ----- | ----- | ------ | ------ | ------ |
-| Exercises | April, 2022 | April, 2022 | April, 2022 | April, 2022 |
-| Solutions | April, 2022 | April, 2022 | April, 2022 | April, 2022 |
+| Exercises | WIP | WIP | WIP | WIP |
+| Solutions | WIP | WIP | WIP | WIP |
 
 #### Set 08 • Pytrees • Intermediate • Exercises 71-80
 
 | Style | Colab | Kaggle | Binder | GitHub |
 | ----- | ----- | ------ | ------ | ------ |
-| Exercises | April, 2022 | April, 2022 | April, 2022 | April, 2022 |
-| Solutions | April, 2022 | April, 2022 | April, 2022 | April, 2022 |
+| Exercises | WIP | WIP | WIP | WIP |
+| Solutions | WIP | WIP | WIP | WIP |
 
 #### Set 09 • Neural Networks • Expert • Exercises 81-90
 
 | Style | Colab | Kaggle | Binder | GitHub |
 | ----- | ----- | ------ | ------ | ------ |
-| Exercises | May, 2022 | May, 2022 | May, 2022 | May, 2022 |
-| Solutions | May, 2022 | May, 2022 | May, 2022 | May, 2022 |
+| Exercises | WIP | WIP | WIP | WIP |
+| Solutions | WIP | WIP | WIP | WIP |
 
 #### Set 10 • Capstone Project • Expert • Exercises 91-100
 
 | Style | Colab | Kaggle | Binder | GitHub |
 | ----- | ----- | ------ | ------ | ------ |
-| Exercises | May, 2022 | May, 2022 | May, 2022 | May, 2022 |
-| Solutions | May, 2022 | May, 2022 | May, 2022 | May, 2022 |
+| Exercises | WIP | WIP | WIP | WIP |
+| Solutions | WIP | WIP | WIP | WIP |
 
 The Jupyter Notebooks can also be run locally by cloning the repo and running on your local jupyter server.
 
